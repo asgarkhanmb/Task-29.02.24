@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\bin\Debug\net6.0\Praktik.exe
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\bin\Debug\net6.0\Praktik.deps.json
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\bin\Debug\net6.0\Praktik.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\bin\Debug\net6.0\Praktik.dll
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\bin\Debug\net6.0\Praktik.pdb
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\Praktik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\Praktik.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\Praktik.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\Praktik.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\Praktik.dll
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\refint\Praktik.dll
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\Praktik.pdb
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\Praktik.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\Praktik\Praktik\obj\Debug\net6.0\ref\Praktik.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Praktik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978953D0-68DA-40FD-9FF7-294932033C53}|Praktik\\Praktik.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\praktik\\praktik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978953D0-68DA-40FD-9FF7-294932033C53}|Praktik\\Praktik.csproj|solutionrelative:praktik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Praktik\\Praktik\\Program.cs",
+              "RelativeDocumentMoniker": "Praktik\\Program.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Praktik\\Praktik\\Program.cs",
+              "RelativeToolTip": "Praktik\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:41:33.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
